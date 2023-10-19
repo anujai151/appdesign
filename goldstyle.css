@@ -1,0 +1,103 @@
+*{
+    margin: 0%;
+    padding: 0px;
+}
+body{
+    background-image: url("https://www.thedailymeal.com/img/gallery/how-watermelons-can-be-both-fruits-and-vegetables/intro-1667853011.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lstyle{
+    background-color:azure;
+    color: black;
+    border-radius: 360%;
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+.logo{
+    color: red;
+    font-weight: bold;
+    font-style: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 40px 40px 40px 40px;
+    margin-top: -20px;
+}
+.anchor{
+    float: right;
+    padding-right: 100px;
+    margin-top: -30px;
+    display: inline;
+}
+li{
+    display: inline;
+}
+a{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+    background-color: yellowgreen;
+    border-radius: 20px;
+}
+.anchor li a:hover{
+    color: brown;
+}
+.as{
+    padding: 5px;
+}
+.bs{
+    padding: 5px;
+}
+.cs{
+    padding: 5px;
+}
+.ds{
+    padding: 5px;
+}
+.log{
+    padding: 5px;
+}
+.reg{
+    padding: 5px;
+}
+.para{
+    margin: auto;
+    width: 700px;
+    height: 200x;
+    margin-top: 50px;
+    margin-left: 65px;
+    padding: 50px;
+    padding-right: 600px;
+}
+.palign{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 10px;
+    justify-content: right;
+    padding: 20px;
+}
+.btn{
+    margin: auto;
+    width: 100px;
+    height: 50px;
+
+}
+.login{
+    padding: 20px;
+    background-color: red;
+    color: white;
+    margin: 10px;
+}
+.register{
+    padding: 15px;
+    background-color: red;
+    color: white;
+    margin: 10px;   
+}
